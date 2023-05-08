@@ -22,4 +22,6 @@ AI systems are becoming increasingly prevalent in our daily lives, from virtual 
 - Privacy
 - Accountability
 
-
+- [Twitter](https://twitter.com/calypsoai?lang=ene)
+- [Website](https://www.calypsoai.com)
+- [LinkedIn](https://www.linkedin.com/company/calypso-ai/mycompany/)
