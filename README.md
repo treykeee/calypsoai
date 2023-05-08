@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ LLM Security and AI Security Features
+# 🛡️ LLM Security and AI Security Repository
 
 </div>
 
