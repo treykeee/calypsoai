@@ -1,4 +1,9 @@
 # **🛡️ LLM Security and AI Security Features**
+## **🚀 Get in Touch with Calypso AI**
+
+- [**🐦 Follow us on Twitter**](https://twitter.com/calypsoai?lang=en)
+- [**🌐 Explore our Website**](https://calypsoai.com/)
+- [**🔗 Connect with us on LinkedIn**](https://www.linkedin.com/company/calypso-ai/)
 
 ## **🌟 Introduction**
 
