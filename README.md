@@ -22,14 +22,21 @@
 
 
 - **🌪️ Adversarial training**
-1. Goodfellow, I., Shlens, J., & Szegedy, C. (2015). [Explaining and harnessing adversarial examples. arXiv preprint arXiv:1412.6572.](https://arxiv.org/abs/1412.6572)
-2. Kurakin, A., Goodfellow, I., & Bengio, S. (2016). [Adversarial examples in the physical world. arXiv preprint arXiv:1607.02533.](https://arxiv.org/abs/1607.02533)
-3. Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018). [Towards deep learning models resistant to adversarial attacks. arXiv preprint arXiv:1706.06083.](https://arxiv.org/abs/1706.06083)
+## 📚 Sources
+
+1. Yang, J., Soltan, A.A.S., Eyre, D.W. et al. An adversarial training framework for mitigating algorithmic biases in clinical machine learning. npj Digit. Med. 6, 55 (2023). [https://doi.org/10.1038/s41746-023-00805-y](https://doi.org/10.1038/s41746-023-00805-y)
+2. Zhao, W.; Alwidian, S.; Mahmoud, Q.H. Adversarial Training Methods for Deep Learning: A Systematic Review. Algorithms 2022, 15, 283. [https://doi.org/10.3390/a15080283](https://doi.org/10.3390/a15080283)
+3. Goodfellow, I., Shlens, J., & Szegedy, C. (2015). [Explaining and harnessing adversarial examples. arXiv preprint arXiv:1412.6572.](https://arxiv.org/abs/1412.6572)
+4. Kurakin, A., Goodfellow, I., & Bengio, S. (2016). [Adversarial examples in the physical world. arXiv preprint arXiv:1607.02533.](https://arxiv.org/abs/1607.02533)
+5. Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018). [Towards deep learning models resistant to adversarial attacks. arXiv preprint arXiv:1706.06083.](https://arxiv.org/abs/1706.06083)
 
 
 - **🧹 Data sanitization**
-1. Blancco Technology Group. (2019). [The Critical Importance of Data Sanitization.](https://www.blancco.com/resources/)
-2. National Institute of Standards and Technology. (2019). [Guidelines for Media Sanitization.](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final)
+1. Shailaja, G. K., & Rao, C. V. G. (2022). Robust and lossless data privacy preservation: optimal key based data sanitization. _Evolutionary Intelligence_, 15, 1123-1134. [https://doi.org/10.1007/s12065-019-00309-3](https://doi.org/10.1007/s12065-019-00309-3)
+2. Koh, P. W., Steinhardt, J., & Liang, P. (2022). Stronger data poisoning attacks break data sanitization defenses. _Machine Learning_, 111, 1-47. [https://doi.org/10.1007/s10994-021-06119-y](https://doi.org/10.1007/s10994-021-06119-y)
+3. National Institute of Standards and Technology. (2019). [Guidelines for Media Sanitization.](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final)
+4. Oliveira, S. R. M., & Zaiane, O. R. (2003). Protecting sensitive knowledge by data sanitization. In _Third IEEE International Conference on Data Mining_ (pp. 613-616). Melbourne, FL, USA. [https://doi.org/10.1109/ICDM.2003.1250990](https://doi.org/10.1109/ICDM.2003.1250990)
+5. Blancco Technology Group. (2019). [The Critical Importance of Data Sanitization.](https://www.blancco.com/resources/)
 
 
 - **📦 Model compression**
