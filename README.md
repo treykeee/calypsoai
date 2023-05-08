@@ -1,11 +1,20 @@
-# **🛡️ LLM Security and AI Security Features**
-## **🚀 Get in Touch with Calypso AI**
+<div align="center">
+
+# 🛡️ LLM Security and AI Security Features
+
+</div>
+
+<div align="center">
+
+## 🚀 Get in Touch with Calypso AI
 
 - [**🐦 Follow us on Twitter**](https://twitter.com/calypsoai?lang=en)
 - [**🌐 Explore our Website**](https://calypsoai.com/)
 - [**🔗 Connect with us on LinkedIn**](https://www.linkedin.com/company/calypso-ai/)
 
-## **🌟 Introduction**
+</div>
+
+## 🌟 Introduction
 
 *LLM (Large Language Models)* and *AI (Artificial Intelligence)* are rapidly evolving fields that have the potential to revolutionize the way we live and work. However, with this potential comes the need for increased security measures to protect against potential threats and vulnerabilities. In this document, we will explore the various security features of LLM and AI, and how they can be used to enhance security and protect against potential threats.
 
