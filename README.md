@@ -43,7 +43,7 @@
 4. Dyda A, Purcell M, Curtis S, Field E, Pillai P, Ricardo K, Weng H, Moore JC, Hewett M, Williams G, Lau CL. Differential privacy for public health data: An innovative tool to optimize information sharing while protecting data confidentiality. Patterns (N Y). 2021 Dec 10;2(12):100366. doi: 10.1016/j.patter.2021.100366. PMID: 34909703; PMCID: PMC8662814. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662814/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662814/)
 
 
-## **🛡️ Section 2: AI Security Features**
+## **🛡️ Section 2: AI Security**
 
 - **📖 Explainability**
 1. Saranya A., Subhashini R. A systematic review of Explainable Artificial Intelligence models and applications: Recent developments and future trends. School of Information Technology and Engineering, VIT University, Vellore, India. [https://doi.org/10.1016/j.dajour.2023.100230](https://doi.org/10.1016/j.dajour.2023.100230)
